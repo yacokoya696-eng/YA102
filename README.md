@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,MIFD-070 永濑唯★本物アイドルAV解禁外神田からやってきたミニマムCuteガール149cm 2019
-https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
 #EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/04/199222274_1616670l.jpg",ABW-089
 https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/6.5%20Project/Prestige/ABW-089.mp4
 #EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/10/bahp088sopl.jpg",Aimi Rika
@@ -25,16 +23,12 @@ https://arcjav7.arcjavproject.workers.dev/1:/Project%20arcjav/May%202021/20.5%20
 https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/7.5%20Project/Faleno%20Star/FSDSS-218.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/06/ipx667pl.jpg",Ono KotomiIPX-667
 https://arcjav06.falenoz06.workers.dev/1:/June%202021/11.6%20Project/IDEAPOCKET/IPX-667.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/10/118abp893pl.jpg",Suzumura Airi ABP-893 LEAKED
-https://arcjav08.falenoz08.workers.dev/2:/Month/Oct%202021/21.10%20Project/L/ABP-893_UNCENSORED_LEAKED_NOWATERMARK.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/223942547_1633609l.jpg",Saitou Amiri ABW-125
 https://arcjav03.falenoz03.workers.dev/2:/Month/August/6.8%20Project/2/ABW-125.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/07/215678781_1629138l.jpg",Saitou Amiri ABW-112
 https://arcjav05.falenoz05.workers.dev/2:/Month/July/2.7%20Project/PRESTIGE/ABW-112.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/205367243_1624334ll-300x202.jpg",Tsuji Sakura SKSK-051
 https://arcjav10.arcjavs.workers.dev/1:/Project%20arcjav/May%202021/31.5%20Project/Selection/SKSK-051.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/07/waaa084pl.jpg",Tsukino Kasumi WAAA-084
-https://arcjav02.falenoz02.workers.dev/2:/Month/July/22.7%20Project/WAAA-084.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/09/237717192_1640938l.jpg",Yuzuki Yuka ABW-150
 https://arcjav03.falenoz03.workers.dev/3:/arcjav/2021/Sept%202021/29.9%20Project/SELECTION/ABW-150.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/09/231097068_1637552l.jpg",Yuzuki Yuka ABW-140
@@ -43,8 +37,6 @@ https://arcjav07.falenoz07.workers.dev/1:/Sept%202021/3.9%20Project/ABW-140.mp4
 https://arcjav01.falenoz01.workers.dev/2:/Month/August/10.8%20Project/SELECTION/ABW-127.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1msfh058pl.jpg",Yoshinaga Konomi MSFH-058
 https://arcjav11.arcjav1314.workers.dev/1:/Project%20arcjav/May%202021/11.5%20Project/SOD/MSFH-058.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/11/ssis233pl.jpg",SSIS-233
-https://arcjav04.falenoz04.workers.dev/4:/2021/Nov%202021/5.11%20Project/SSIS-233.mp4
 #EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3938292 海量原始性爱中出，纱代，窈窕美妻子，敏感显露！
 https://surrit.com/000fbd01-56c0-4a5c-8358-1c1b3291fc0d/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",IPZZ-196 出道…卖…偶像强奸服从环● 桃乃木假名，最后一个被中年男子不断掠夺的偶像
